@@ -394,7 +394,7 @@ const Sidebar = () => {
             className="flex items-center px-6 py-3 text-gray-800 hover:bg-[#5595d1] hover:text-white"
           >
             <SettingOutlined className="mr-4" />
-            <span>Settings</span>
+            <span>Account</span>
           </a>
         </nav>
       </div>
