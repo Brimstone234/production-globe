@@ -14,7 +14,7 @@ import {
 // import { FaSun, FaMoon } from "react-icons/fa";
 
 // components
-import LogOutModal from "../components/LogOutModal.Jsx";
+import LogOutModal from "../components/LogOutModal.jsx";
 
   const Sidebar = () => {
     const [file, setFile] = useState(null);
